@@ -15,20 +15,37 @@ pada langkah enam dilakukan penambahan dua container pada class _MyHomePageState
 
 ## penjelasan parameter
 key = Mengontrol bagaimana satu widget menggantikan widget lain pada tree.
+
 textKey = Mengatur key untuk widget Teks yang dihasilkan
+
 style = Jika non-null, maka style digunakan untuk teks ini
+
 minFontSize = Batasan ukuran teks minimum yang akan digunakan saat mengubah ukuran teks secara otomatis (Diabaikan jika presetFontSizes diatur)
+
 maxFontSize =  Batasan ukuran teks maksimum yang akan digunakan saat mengubah ukuran teks secara otomatis (Diabaikan jika presetFontSizes diatur)
+
 stepGranularity = Ukuran step dimana ukuran font sedang disesuaikan dengan batasan.
+
 presetFontSizes = Mendefinisikan semua ukuran font yang mungkin
+
 group = Menyinkronkan ukuran beberapa AutoSizeText
+
 textAlign = Bagaimana teks harus disejajarkan secara horizontal
+
 textDirection = memutuskan bagaimana nilai textAlign seperti TextAlign.start dan TextAlign.end diinterpretasikan
+
 locale = Digunakan untuk memilih font ketika karakter Unicode yang sama dapat dirender secara berbeda, tergantung pada lokal
+
 softWrap = Apakah teks harus putus pada jeda baris lunak
+
 wrapWords = Apakah kata-kata yang tidak cocok dalam satu baris harus dibungkus. Default ke true untuk berperilaku seperti Teks
+
 overflow = Bagaimana visual overflow harus ditangani
+
 overflowReplacement = Jika teks meluap dan tidak sesuai dengan batasnya, widget ini akan ditampilkan sebagai gantinya
+
 textScaleFactor = Jumlah piksel font untuk setiap piksel logis. Juga memengaruhi minFontSize, maxFontSize, dan presetFontSizes
+
 maxLines = Jumlah maksimum baris opsional untuk teks yang akan dibentangkan
+
 semanticsLabel = Label semantik alternatif untuk teks ini
