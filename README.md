@@ -1,7 +1,7 @@
 # flutter_plugin_pubdev
 
 Hasil Screenshot praktikum
-![images/pp_1.png]
+![Screenshot flutter_plugin_pubdev](images/pp_1.png)
 
 ## Getting Started
 
